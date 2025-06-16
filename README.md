@@ -1,12 +1,12 @@
 # DS105.P11_Data_Analysis_And_Visualization
-This is the final project report of the subject of data analysis and visualization - DS105.P11
+Đây là đồ án cuối kỳ của nhóm 10 thuộc môn Phân tích và trực quan dữ liệu - DS105.P11
 
-Project's name: ANALYSIS OF THE IMPACT OF CLIMATE AND ENVIRONMENT ON THE FREQUENCY AND INTENSITY OF NATURAL DISASTERS IN ASIAN COUNTRIES
+Tên đề tài: PHÂN TÍCH SỰ ẢNH HƯỞNG CỦA KHÍ HẬU VÀ MÔI TRƯỜNG ĐẾN TẦN SUẤT VÀ CƯỜNG ĐỘ THIÊN TAI CỦA CÁC QUỐC GIA CHÂU Á
 
-Members:
+Thành viên:
 
-Nguyen Thanh Dat _ 22520224
+Nguyễn Thành Đạt - 22520224
 
-Ho Ngoc Mai _ 22520839
+Hồ Ngọc Mai - 22520839
 
-Le Ngoc Thien Phuc _ 22521117
+Lê Ngọc Thiên Phúc - 22521117
